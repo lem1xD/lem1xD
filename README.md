@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lem1xD
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning JS
-- 📫 How to reach me no no no
+- 👋 Hi, I’m Oleksandr
+- 👀 I study in WUNU, software engineering
+- 🌱 I’m currently learning C#/.NET
+- 📫 How to reach me: boyarchykalex@gmail.com
+- Telegram: lem1xx
 
-I from Ukraine, i started to learn JS for best future
